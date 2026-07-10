@@ -1,0 +1,23 @@
+train: C:\Users\chy03\Desktop\neu-det\images\train
+val: C:\Users\chy03\Desktop\neu-det\images\val
+test: C:\Users\chy03\Desktop\neu-det\images\test
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
+
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
+
+
+
+#
+#train: C:\Users\Desktop\gc10\images\train
+#val: C:\Users\Desktop\gc10\images\val
+#test: C:\Users\Desktop\gc10\images\test
+#
+## number of classes
+#nc: 10
+#
+## class names
+#names: ['1_punching','2_welding line', '3_crescent gap',  '4_crescent gap', '5_oil spot','6_silk spot','7_inclusion', '8_rolled pit', '9_crease','10_waist folding']
+#
